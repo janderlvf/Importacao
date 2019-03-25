@@ -31,7 +31,7 @@ public class LeituraArquivo {
 		System.out.println(lista);
 		
 		
-		///teste do jander
+		
 		
 	}
 
