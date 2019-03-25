@@ -30,6 +30,9 @@ public class LeituraArquivo {
 		List<String> lista = la.lerArquivo(dir+"Cliente_20140220.txt");
 		System.out.println(lista);
 		
+		
+		///teste do jander
+		
 	}
 
 }
